@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "atun",
+        "umur": 32,
+        "nrp": "122090444",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "atun1",
+            "pembimbing2": "atun2"
+        }
+    },
+    {
+        "nama": "atun",
+        "umur": 32,
+        "nrp": "122090444",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "atun1",
+            "pembimbing2": "atun2"
+        }
+    }
+]
